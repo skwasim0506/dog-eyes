@@ -24,7 +24,7 @@ Information of the data:
 
 * There are around 10,000 images in the training and test sets.
     
-![Dog Breeds Data](https://github.com/skwasim0506/dog-eyes/blob/master/data.png)
+![Dog Breeds Data](https://github.com/skwasim0506/dog-eyes/blob/master/dog-eyes-master/data.png)
     
 ## Results
 
@@ -32,4 +32,4 @@ The following image shows some of the predictions made by the model and its pred
 
 Score in Kaggle after evaluating the test data: 0.89228
 
-![Result- Prediction probabilities](https://github.com/skwasim0506/dog-eyes/blob/master/predictions.png)
+![Result- Prediction probabilities](https://github.com/skwasim0506/dog-eyes/blob/master/dog-eyes-master/predictions.png)
